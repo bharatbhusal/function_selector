@@ -1,5 +1,5 @@
 // src/Converter.jsx
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { keccak_256 } from "js-sha3";
 
 const Converter = () => {
